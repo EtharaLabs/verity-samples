@@ -113,8 +113,4 @@ Security and benchmark-integrity disclosure: see `SECURITY.md`. Do not open a pu
 
 Contribution route: see `CONTRIBUTING.md`.
 
----
-
-## Copyright
-
 Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
